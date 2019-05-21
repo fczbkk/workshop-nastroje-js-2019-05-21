@@ -1,3 +1,12 @@
+## [1.0.2](https://github.com/fczbkk/workshop-nastroje-js-2019-05-21/compare/v1.0.1...v1.0.2) (2019-05-21)
+
+
+### Bug Fixes
+
+* add changelog generator ([e864bdf](https://github.com/fczbkk/workshop-nastroje-js-2019-05-21/commit/e864bdf))
+
+
+
 ## [1.0.1](https://github.com/fczbkk/workshop-nastroje-js-2019-05-21/compare/e7ff82e...v1.0.1) (2019-05-21)
 
 
