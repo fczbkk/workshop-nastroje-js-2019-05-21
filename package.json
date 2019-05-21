@@ -13,5 +13,13 @@
   "bugs": {
     "url": "https://github.com/fczbkk/workshop-nastroje-js-2019-05-21/issues"
   },
-  "homepage": "https://github.com/fczbkk/workshop-nastroje-js-2019-05-21#readme"
+  "homepage": "https://github.com/fczbkk/workshop-nastroje-js-2019-05-21#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.4",
+    "@babel/preset-env": "^7.4.4"
+  },
+  "scripts": {
+    "build": "babel ./src --out-dir ./build --config-file ./configs/babel.json"
+  }
 }
