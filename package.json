@@ -19,10 +19,13 @@
     "@babel/core": "^7.4.4",
     "@babel/preset-env": "^7.4.4",
     "babel-loader": "^8.0.6",
+    "jsdoc": "^3.6.2",
     "webpack": "^4.32.0",
     "webpack-cli": "^3.3.2"
   },
   "scripts": {
-    "build": "webpack --config webpack.config.js"
+    "build": "webpack --config webpack.config.js",
+    "doc:readme": "documentation readme ./src/index.js -s 'Documentation'",
+    "doc": "jsdoc -c ./jsdoc.config.json"
   }
 }
