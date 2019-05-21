@@ -1,7 +1,17 @@
 {
-  "version": "1.0.0",
   "name": "@fczbkk/validator",
+  "version": "1.0.0",
+  "main": "index.js",
   "dependencies": {
     "lodash": "^4.17.11"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fczbkk/workshop-nastroje-js-2019-05-21.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fczbkk/workshop-nastroje-js-2019-05-21/issues"
+  },
+  "homepage": "https://github.com/fczbkk/workshop-nastroje-js-2019-05-21#readme"
 }
